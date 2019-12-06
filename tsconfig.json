@@ -1,0 +1,25 @@
+{
+  "compilerOptions": {
+    "experimentalDecorators": true,
+    "allowJs": true,
+    "allowSyntheticDefaultImports": true,
+    "esModuleInterop": true,
+    "isolatedModules": true,
+    "jsx": "react",
+    "lib": [
+      "es6",
+      "es7"
+    ],
+    "moduleResolution": "node",
+    "noEmit": true,
+    "strict": true,
+    "target": "esnext",
+    "baseUrl": ".",
+    "rootDir": ".",
+    "paths": {
+      "js_pro_src/*": ["./jsProSrc/*"]
+    },
+    "noImplicitAny": false
+  },
+  "exclude": ["node_modules", "babel.config.js", "metro.config.js", "jest.config.js"]
+}
