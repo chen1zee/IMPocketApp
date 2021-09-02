@@ -3626,10 +3626,10 @@ image-size@^0.6.0:
   resolved "https://registry.npm.taobao.org/image-size/download/image-size-0.6.3.tgz#e7e5c65bb534bd7cdcedd6cb5166272a85f75fb2"
   integrity sha1-5+XGW7U0vXzc7dbLUWYnKoX3X7I=
 
-immer@^4.0.1:
-  version "4.0.1"
-  resolved "https://registry.npm.taobao.org/immer/download/immer-4.0.1.tgz#9108c1ece7fdd7efb91d21e5eb4bac26f7c3a8ba"
-  integrity sha1-kQjB7Of91++5HSHl60usJvfDqLo=
+immer@^9.0.6:
+  version "9.0.6"
+  resolved "https://registry.yarnpkg.com/immer/-/immer-9.0.6.tgz#7a96bf2674d06c8143e327cbf73539388ddf1a73"
+  integrity sha512-G95ivKpy+EvVAnAab4fVa4YGYn24J1SpEktnJX7JJ45Bd7xqME/SCplFzYFmTbrkwZbQ4xJK1xMTUYBkN6pWsQ==
 
 import-fresh@^2.0.0:
   version "2.0.0"
